@@ -14,6 +14,7 @@ RUN <<EOF bash -xe
     curl \
     git \
     libssl-dev \
+    libpcre3-dev \
     lsb-release \
     openssh-client \
     python3 \
